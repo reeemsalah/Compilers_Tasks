@@ -7,7 +7,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class EslamTest2 {
+public class TestingAll {
     public static void main(String[] args) throws IOException {
         FileWriter fw = new FileWriter("problem_inputs.txt");
         String[] tests_files = new String[] {"test_cases_1_12.txt", "test_cases_13_15.txt",
